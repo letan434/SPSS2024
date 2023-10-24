@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SPSS2024.props" />
+</Project>
